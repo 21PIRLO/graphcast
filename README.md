@@ -228,4 +228,4 @@ Use of the third-party materials referred to above may be governed by separate t
 
 ## Contact
 
-For feedback and questions, contact us at gencast@google.com.
+For feedback and questions, contact us at gencast@google.com. Any information collected via email will be used in accordance with [Google's privacy policy](http://policies.google.com/privacy).
